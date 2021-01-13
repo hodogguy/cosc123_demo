@@ -6,13 +6,15 @@ This is just random text
 
 If you want to **bold** text, just surround the words with double star.
 
+If you want to *Italicize* text, just surround the words with one star.
+
 ### This is a level 3 heading
 
 If you want to make a list:
 
 - item 1
 - item 2
-- item 3
+
 
 If you want to make a numbered list:
 
